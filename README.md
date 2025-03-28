@@ -68,6 +68,10 @@
   <img src="https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=white&style=for-the-badge" height="20" alt="pug logo"  />
   <img width="" />
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="20" alt="jest logo"  />
+  <img width="" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="20" alt="sass logo"  />
+  <img width="" />
+  <img src="https://img.shields.io/badge/gulp-CF4647?logo=gulp&logoColor=white&style=for-the-badge" height="20" alt="gulp logo"  />
 </div>
 
 ###
